@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "pixiv\\" : "src/pixiv/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "symfony/console": "^3.3"
+    }
+}

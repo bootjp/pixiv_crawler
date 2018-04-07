@@ -1,0 +1,9 @@
+Name                       Version  License  
+guzzlehttp/guzzle          6.3.0    MIT      
+guzzlehttp/promises        v1.3.1   MIT      
+guzzlehttp/psr7            1.4.2    MIT      
+psr/http-message           1.0.1    MIT      
+psr/log                    1.0.2    MIT      
+symfony/console            v3.3.6   MIT      
+symfony/debug              v3.3.6   MIT      
+symfony/polyfill-mbstring  v1.5.0   MIT      
