@@ -6,6 +6,6 @@
     },
     "require": {
         "guzzlehttp/guzzle": "^6.3",
-        "symfony/console": "^3.3"
+        "symfony/console": "^4.2"
     }
 }
